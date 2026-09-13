@@ -1,0 +1,6 @@
+# Never publish real keys, IDs, or share links
+config.json
+DO-NOT-SHARE.txt
+share-uri-*.txt
+*.key
+.env
